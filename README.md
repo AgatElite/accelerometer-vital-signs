@@ -1,6 +1,6 @@
 # Vital Sign Extraction from Smartphone Accelerometers
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgatElite/accelerometer-vital-signs/blob/main/HR_and_BR_Analysis.ipynb)
 
 **Goal:** Extract Heart Rate (HR) and Respiration Rate (RR) from raw accelerometer data collected via a smartphone placed on the thorax.
 
