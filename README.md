@@ -10,7 +10,7 @@ The algorithm processes raw X, Y, Z acceleration data using:
 2.  **Zero-Phase Filtering:** Uses `filtfilt` (Butterworth) to remove noise without shifting peak timing.
 3.  **Robust Estimation:** Compares **Time Domain** (Adaptive Thresholds) vs. **Frequency Domain** (Welch's Method) for validation.
 
-### 📂 Structure
+### Structure
 * `data/`: Contains raw accelerometer CSV files.
 * `plots/`: Generated plots from the notebook, used for the presentation.
 * `HR and BR Analysis.ipynb`: The Jupyter Notebook with code, visualizations, and results.
