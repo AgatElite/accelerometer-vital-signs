@@ -15,3 +15,7 @@ The algorithm processes raw X, Y, Z acceleration data using:
 * `plots/`: Generated plots from the notebook, used for the presentation.
 * `HR and BR Analysis.ipynb`: The Jupyter Notebook with code, visualizations, and results.
 * `docs/`: Presentation slides and pdf.
+
+### How to run
+1. Click on Colab button
+2. Run all cells in Colab
